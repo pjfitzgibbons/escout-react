@@ -221,7 +221,10 @@
     padding: 0 5px 5px 0;
   }
   #autoScreen header {
-    display: inline-block;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 30px 30px;
+
     font-size: 20px !important;
     margin: 7px 0 5px 20px;
   }
