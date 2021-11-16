@@ -1,0 +1,34 @@
+#standbyScreen {
+
+  text-align: center;
+}
+
+span {
+  padding-right: 10px;
+}
+button {
+  border-radius: 3px;
+  border: 2px solid white;
+  font-size: 50px !important;
+  font-weight: bold !important;
+  color: green;
+  padding: 25px;
+  justify-content: center;
+  align-items: center;
+
+  height: 100px !important;
+  width: calc(100vw - 50px);
+  margin: 15px;
+  border-radius: 8px;
+}
+
+.gameInfo {
+  display: block;
+  height: 60px;
+  width: calc(100vw - 50px);
+  text-align: center;
+  margin: 15px;
+  border-radius: 8px;
+  font-size: 30px;
+
+}
