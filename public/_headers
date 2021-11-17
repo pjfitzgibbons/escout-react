@@ -1,2 +1,4 @@
 /index.html
     Cache-Control: public, max-age=86400
+/newMatch
+    Cache-Control: public, max-age=86400
