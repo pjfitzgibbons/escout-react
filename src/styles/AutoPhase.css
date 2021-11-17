@@ -27,8 +27,9 @@
 #autoScreen.blue {
   border: 4px solid blue;
 }
+
 #autoscreen .highGoal {
-  grid-area: "highGoal";
+  grid-area: highGoal;
 }
 
 #autoScreen header {
@@ -110,35 +111,35 @@
   font-size: 40px;
 }
 #autoscreen #team {
-  grid-area: "team";
+  grid-area: team;
 }
 
 #autoscreen header .teamNum {
-  grid-area: "teamNum";
+  grid-area: teamNum;
 }
 
 #autoscreen #match {
-  grid-area: "match";
+  grid-area: match;
 }
 
 #autoscreen header .matchNum {
-  grid-area: "matchNum";
+  grid-area: matchNum;
 }
 
 #autoscreen #alliance {
-  grid-area: "alliance";
+  grid-area: alliance;
 }
 
 #autoscreen header .allianceName {
-  grid-area: "allianceName";
+  grid-area: allianceName;
 }
 
 #autoscreen header .timer {
-  grid-area: "timer";
+  grid-area: timer;
 }
 
 #autoscreen header .timerSecs {
-  grid-area: "allianceName";
+  grid-area: allianceName;
 }
 
 #teleopScreen {
