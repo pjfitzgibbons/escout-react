@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/pjfitzgibbons/escout-react/static/css/main.cb912088.chunk.css",
-    "main.js": "/pjfitzgibbons/escout-react/static/js/main.bbe6a5c6.chunk.js",
-    "main.js.map": "/pjfitzgibbons/escout-react/static/js/main.bbe6a5c6.chunk.js.map",
-    "runtime-main.js": "/pjfitzgibbons/escout-react/static/js/runtime-main.fadc8a44.js",
-    "runtime-main.js.map": "/pjfitzgibbons/escout-react/static/js/runtime-main.fadc8a44.js.map",
-    "static/js/2.b66a120e.chunk.js": "/pjfitzgibbons/escout-react/static/js/2.b66a120e.chunk.js",
-    "static/js/2.b66a120e.chunk.js.map": "/pjfitzgibbons/escout-react/static/js/2.b66a120e.chunk.js.map",
-    "static/js/3.8d4db18f.chunk.js": "/pjfitzgibbons/escout-react/static/js/3.8d4db18f.chunk.js",
-    "static/js/3.8d4db18f.chunk.js.map": "/pjfitzgibbons/escout-react/static/js/3.8d4db18f.chunk.js.map",
-    "index.html": "/pjfitzgibbons/escout-react/index.html",
-    "static/css/main.cb912088.chunk.css.map": "/pjfitzgibbons/escout-react/static/css/main.cb912088.chunk.css.map",
-    "static/js/2.b66a120e.chunk.js.LICENSE.txt": "/pjfitzgibbons/escout-react/static/js/2.b66a120e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/pjfitzgibbons/escout-react/static/media/logo.6ce24c58.svg"
+    "main.css": "/escout-react/static/css/main.cb912088.chunk.css",
+    "main.js": "/escout-react/static/js/main.bbe6a5c6.chunk.js",
+    "main.js.map": "/escout-react/static/js/main.bbe6a5c6.chunk.js.map",
+    "runtime-main.js": "/escout-react/static/js/runtime-main.e3acc5a0.js",
+    "runtime-main.js.map": "/escout-react/static/js/runtime-main.e3acc5a0.js.map",
+    "static/js/2.b66a120e.chunk.js": "/escout-react/static/js/2.b66a120e.chunk.js",
+    "static/js/2.b66a120e.chunk.js.map": "/escout-react/static/js/2.b66a120e.chunk.js.map",
+    "static/js/3.8d4db18f.chunk.js": "/escout-react/static/js/3.8d4db18f.chunk.js",
+    "static/js/3.8d4db18f.chunk.js.map": "/escout-react/static/js/3.8d4db18f.chunk.js.map",
+    "index.html": "/escout-react/index.html",
+    "static/css/main.cb912088.chunk.css.map": "/escout-react/static/css/main.cb912088.chunk.css.map",
+    "static/js/2.b66a120e.chunk.js.LICENSE.txt": "/escout-react/static/js/2.b66a120e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/escout-react/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fadc8a44.js",
+    "static/js/runtime-main.e3acc5a0.js",
     "static/js/2.b66a120e.chunk.js",
     "static/css/main.cb912088.chunk.css",
     "static/js/main.bbe6a5c6.chunk.js"
