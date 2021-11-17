@@ -16,13 +16,13 @@ export default function AutoPhase() {
         <div className="match" id="match">
           Match
         </div>
-        <div className="timer" id="timer"></div>
+        <div className="timer" id="timer" />
         <div className="alliance" id="alliance">
           Alliance
         </div>
         <div className={`teamNum ${game.alliance}`}>{game.team}</div>
         <div className={`matchNum ${game.alliance}`}>{game.match}</div>
-        <div className={`timerSecs ${game.alliance}`}></div>
+        <div className={`timerSecs ${game.alliance}`} />
         <div className={`alliianceName ${game.alliance}`}>{game.alliance}</div>
       </header>
 
@@ -33,18 +33,18 @@ export default function AutoPhase() {
         <CounterBox label="Low Goal" keyLabel="A" />
 
 
-        <div className="blank widgetOne" id="blankWidgetOne"></div>
+        <div className="blank widgetOne" id="blankWidgetOne" />
 
         <div
           className="box autoMobility"
           id="bool1"
         >
           <div className="dataLabel">Auto Mobility</div>
-          <div className="dataField"></div>
+          <div className="dataField" />
           <div className="keyLabel">K</div>
         </div>
 
-        <div className="blank widgetThree" id="blankWidgetThree"></div>
+        <div className="blank widgetThree" id="blankWidgetThree" />
       </main>
     </div>
   );

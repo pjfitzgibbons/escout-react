@@ -7,7 +7,7 @@ span {
   padding-right: 10px;
 }
 button {
-  border-radius: 3px;
+  border-radius: 8px;
   border: 2px solid white;
   font-size: 50px !important;
   font-weight: bold !important;
@@ -19,7 +19,6 @@ button {
   height: 100px !important;
   width: calc(100vw - 50px);
   margin: 15px;
-  border-radius: 8px;
 }
 
 .gameInfo {
