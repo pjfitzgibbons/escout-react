@@ -11,7 +11,7 @@ export default function AutoPhase() {
   const game = useSelector(gameSelector);
 
   return (
-    <div className="displayNone" id="autoScreen">
+    <div className="disableSelect" id="autoScreen">
       <header>
         <div id="team" data-alttext="T"><span>Team</span></div>
         <div className="match" id="match" data-alttext="M">

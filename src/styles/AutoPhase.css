@@ -177,6 +177,13 @@
   height: 86vh;
 }
 
+.disableSelect {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
 @media screen and (max-width: 420px) {
   #autoScreen > main {
     display: block;
