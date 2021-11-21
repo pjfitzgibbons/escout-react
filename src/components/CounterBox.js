@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react"
-import AutoPhase from "../pages/AutoPhase"
+// import AutoPhase from "../pages/AutoPhase"
 import styles from "../styles/AutoPhase.module.css"
 
 export default function CounterBox({id, label, keyLabel}) {
