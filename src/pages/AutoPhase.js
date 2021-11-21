@@ -2,7 +2,7 @@ import { useSelector } from "react-redux";
 
 import CounterBox from "../components/CounterBox"
 
-// import styles from "../styles/AutoPhase.css";
+import "../styles/AutoPhase.css";
 // import { setMatch as submitGame, initialGame } from "../context/matchSlice"
 
 const gameSelector = (state) => state.match;
