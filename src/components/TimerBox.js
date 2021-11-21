@@ -2,7 +2,7 @@ import { useState, useEffect } from "react"
 import AutoPhase from "../pages/AutoPhase"
 import styles from "../styles/AutoPhase.module.css"
 
-export default function CounterBox({id, label, keyLabel}) {
+export default function TimerBox({id, label, keyLabel}) {
 
   const [counter, setCounter] = useState(0)
   const keyLabelLower = keyLabel.toLowerCase()

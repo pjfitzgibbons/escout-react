@@ -1,13 +1,13 @@
 import { useState } from "react"
 import { useDispatch } from "react-redux"
-import { setMatch as submitGame, initialState } from "../context/matchSlice"
+import { setMatch as submitGame, initialGame } from "../context/matchSlice"
 
 export default function NewMatch() {
   // const matchState = useSelector((state) => state.match)
   const dispatch = useDispatch()
 
   const [game, setGame] = useState(
-    initialState
+    initialGame
   )
 
   let errors = ""

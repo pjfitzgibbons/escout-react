@@ -1,0 +1,37 @@
+.high {
+  color: var(--green);
+}
+.inner {
+  color: var(--blue);
+}
+.low {
+  color: var(--yellow);
+}
+.missed {
+  color: var(--red);
+}
+.autoMobility {
+  color: var(--violet);
+}
+
+@media screen and (max-width: 1000px) {
+  .high {
+    background-color: var(--green);
+  }
+  .inner {
+    background-color: var(--blue);
+    color: whitesmoke !important;
+  }
+  .low {
+    background-color: var(--yellow);
+    color: black;
+  }
+  .missed {
+    background-color: var(--red);
+    color: black;
+  }
+  .autoMobility {
+    background-color: var(--violet);
+    color: black;
+  }
+}
